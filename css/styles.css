@@ -86,6 +86,10 @@ header h2 {
   padding: 1em;
   background-color: #fff;
 }
+.hero h3 span {
+  display: block;
+  text-transform: none;
+}
 .hero > p:first-child {
   margin-bottom: 2em;
 }
